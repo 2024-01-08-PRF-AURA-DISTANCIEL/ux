@@ -25,7 +25,7 @@ Pour consolider ses relations avec ses partenaires et générer du trafic sur le
 
 ## Enoncé
 
-1. A partir de l'expression des besoins, choisissez un besoin permettant de mener un entretien utilisateur (à approfondir).
+1. A partir de l'expression des besoins, choisissez un besoin permettant de mener un entretien utilisateur (un besoin à approfondir, idéalement celui qui a le plus de valeur à vos yeux, pour le moment, sans tenir compte des priorités du client).
 
 2. Définissez les modalités, cadre de votre entretien.
 
