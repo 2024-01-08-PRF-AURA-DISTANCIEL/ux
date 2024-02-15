@@ -9,4 +9,4 @@
 
 ## Enoncé
 
-1. A partir de l'analyse des résultats de votre entretien utilisateur et des modèles de *Persona* proposés par le site précédent, créez un *Persona*.
+1. A partir de l'analyse des résultats de votre Google Forms et des modèles de *Persona* proposés par le site précédent, créez un *Persona*.
