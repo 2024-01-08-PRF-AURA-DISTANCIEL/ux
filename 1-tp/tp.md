@@ -21,4 +21,4 @@ Pour consolider ses relations avec ses partenaires et générer du trafic sur le
 
 ## Sujet
 
-**Comment proposer une fiche de produit innovante et originale pour GT-Fashion en adoptant une approche UX-DESIGN** ?
+Comment proposer une fiche de produit innovante et originale pour GT-Fashion en adoptant une approche **Design Thinking ou Design Sprint** (si vous optez pour cette dernière, les sprints doivent être de 20 min environ pour chaque étape (20x5 = 1h40)) ?
