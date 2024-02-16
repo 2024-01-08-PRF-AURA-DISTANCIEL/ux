@@ -8,3 +8,4 @@ Effectuez un brainstorming en suivant les étapes ci-après pour répondre à la
 2. Explorez d'autres idées à partir des idées trouvées ;
 3. Triez les idées ;
 4. Proposez plusieurs solutions pour répondre à la problématique.
+5. Proposez parmi votre liste d'idées, la meilleure
