@@ -10,7 +10,7 @@ L'objectif de l'audit (ici, ça ressemble davantage à un mini Benchmark) est de
 
 ## Enoncé
 
-1. Réalisez l'audit d'un des sites ci-dessous sur les interfaces mobile et desktop (version grand écran, ordinateur) en utilisant la [grille d'évaluation suivante](../0-exercices/ressources/grille-ux.xlsx) inspirée de cette [grille](https://drive.google.com/file/d/1Otx09RtOEsTTzROAxSdNPlfotB5p_nxw/view).
+1. Réalisez l'audit d'un des sites ci-dessous sur les interfaces mobile et desktop (version grand écran, ordinateur) en utilisant la [grille d'évaluation suivante](./ressources/grille-ux.xlsx) inspirée de cette [grille](https://drive.google.com/file/d/1Otx09RtOEsTTzROAxSdNPlfotB5p_nxw/view).
 2. Rédigez une petite synthèse écrite des forces, faiblesses des concurrents ainsi que des opportunités à saisir.
 
 ### Sites
